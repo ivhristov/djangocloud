@@ -25,7 +25,7 @@ SECRET_KEY = 'hdp2sq$pjfx53p5(q4opi+&$ie35_$$u_-&3)%rnv_7(21vk64'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ec2-18-188-249-80.us-east-2.compute.amazonaws.com']
 
 
 # Application definition
